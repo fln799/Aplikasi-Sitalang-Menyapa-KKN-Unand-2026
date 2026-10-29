@@ -1,17 +1,12 @@
 # sitalang_menyapa
 
-A new Flutter project.
+Ini adalah aplikasi pelaporan masyarakat yang ada di daerah sitalang, Kec.Ampek Nagari, Kab.Agam, Prov.Sumatera Barat, Indonesia.
 
-## Getting Started
+Dari aplikasi ini dibuat oleh saya sendiri serta tim KKN UNAND Sitalang Periode 2 2026.
 
-This project is a starting point for a Flutter application.
+Aplikasi ini belum selesai penuh, tetapi gambaran dari aplikasi ini tidak akan jauh seperti ini.
 
-A few resources to get you started if this is your first Flutter project:
+Harapannya kedepan dapat di lanjutkan penyelesaian aplikasi ini
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Gambar Aplikasi Pengaduannya
+<img width="493" height="1043" alt="Screenshot 2026-07-30 031325" src="https://github.com/user-attachments/assets/8fadb921-1c84-4aa2-aab8-42fefc7d5109" />
